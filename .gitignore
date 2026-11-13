@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Data files (large raw data)
+ball_by_ball.csv
+*.feather
+*.parquet
+*.zip
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.matplotlib/
+
+# IDE files
+.vscode/
+.idea/
