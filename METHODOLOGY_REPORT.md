@@ -9,7 +9,7 @@ When games are on the line, elite athletes are distinguished by their ability to
 
 This study builds an end-to-end, data-driven analytical framework applied to **200,999 deliveries across 867 IPL and T20 International (T20I) matches from 2022 to 2026**. We formulate a ball-by-ball **Continuous Pressure Index (\(\text{PI}\))**, calibrate player baselines, measure performance elevation (\(\Delta\)), control for sample-size credibility via **Empirical Bayes shrinkage**, and evaluate **match-to-match consistency** across appearances.
 
-* **Open-Source Code Repository**: [https://github.com/aryanmathur/rr-pressure-analytics](https://github.com/aryanmathur/rr-pressure-analytics)
+* **Open-Source Code Repository**: [https://github.com/mathuraryan036/rr-pressure-analytics](https://github.com/mathuraryan036/rr-pressure-analytics)
 
 ---
 
@@ -303,12 +303,12 @@ The end-to-end framework unites delivery-level physics with population shrinkage
 
 Full source code, data preprocessing pipelines, ranking models, and chart generators are version-controlled and public for review:
 
-* **GitHub Repository**: [https://github.com/aryanmathur/rr-pressure-analytics](https://github.com/aryanmathur/rr-pressure-analytics)
+* **GitHub Repository**: [https://github.com/mathuraryan036/rr-pressure-analytics](https://github.com/mathuraryan036/rr-pressure-analytics)
 
 ### Reproduction Steps
 ```bash
 # 1. Clone the repository
-git clone https://github.com/aryanmathur/rr-pressure-analytics.git
+git clone https://github.com/mathuraryan036/rr-pressure-analytics.git
 cd rr-pressure-analytics
 
 # 2. Install required dependencies

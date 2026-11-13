@@ -73,7 +73,7 @@ Expected strike rate and economy rates are calibrated per match context. Competi
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/<YOUR_USERNAME>/rr-pressure-analytics.git
+   git clone https://github.com/mathuraryan036/rr-pressure-analytics.git
    cd rr-pressure-analytics
    ```
 
